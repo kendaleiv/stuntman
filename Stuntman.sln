@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26114.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "src\Core\Core.csproj", "{A3951ED6-0AD3-424C-B5BC-8008C80EEA02}"
 EndProject
@@ -19,13 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageSample.BearerTokenTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageSample.ServerTester", "samples\UsageSample.ServerTester\UsageSample.ServerTester.csproj", "{EE3E17BB-74F9-4314-A529-5DE79B9E7D34}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Core.AspNetCore.Tests", "tests\Core.AspNetCore.Tests\Core.AspNetCore.Tests.xproj", "{162CDC91-8B1B-48AB-BD7E-A24014B039F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.AspNetCore.Tests", "tests\Core.AspNetCore.Tests\Core.AspNetCore.Tests.csproj", "{162CDC91-8B1B-48AB-BD7E-A24014B039F6}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UsageSample.AspNetCore", "samples\UsageSample.AspNetCore\UsageSample.AspNetCore.xproj", "{77130FF6-DFCC-4D30-B560-0E23A09A6726}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageSample.AspNetCore", "samples\UsageSample.AspNetCore\UsageSample.AspNetCore.csproj", "{77130FF6-DFCC-4D30-B560-0E23A09A6726}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UsageSampleMvc.AspNetCore", "samples\UsageSampleMvc.AspNetCore\UsageSampleMvc.AspNetCore.xproj", "{7BE101FC-EB16-43B4-A25B-9F590096F776}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageSampleMvc.AspNetCore", "samples\UsageSampleMvc.AspNetCore\UsageSampleMvc.AspNetCore.csproj", "{7BE101FC-EB16-43B4-A25B-9F590096F776}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RimDev.Stuntman.AspNetCore", "src\RimDev.Stuntman.AspNetCore\RimDev.Stuntman.AspNetCore.xproj", "{2822BCC5-31B2-45F3-A298-908643CA39BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimDev.Stuntman.AspNetCore", "src\RimDev.Stuntman.AspNetCore\RimDev.Stuntman.AspNetCore.csproj", "{2822BCC5-31B2-45F3-A298-908643CA39BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
